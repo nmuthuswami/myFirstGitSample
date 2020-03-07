@@ -1,0 +1,23 @@
+{
+  "name": "myfirstgitsample",
+  "version": "1.0.0",
+  "description": "This is my first application to GIT using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmuthuswami/myFirstGitSample.git"
+  },
+  "author": "Nirmalanand Muthuswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmuthuswami/myFirstGitSample/issues"
+  },
+  "homepage": "https://github.com/nmuthuswami/myFirstGitSample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
